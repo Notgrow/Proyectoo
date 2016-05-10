@@ -1,0 +1,41 @@
+body{
+  background: url("../images/fond.gif") 100% 100%;
+ 
+}
+
+li
+{
+	list-style:none;
+}
+.vacio
+{
+	margin-top:200px;
+}
+.rowonline {
+	
+	margin-top:50px;
+}
+
+.volverlogin {
+	
+	color : black;
+	
+	
+}
+.cajas{
+  text-align:center;
+  background-color:white;
+  border:2px solid black;
+  
+
+}
+.imglogin{
+margin-bottom : 10px;
+
+}
+
+.log1{
+	margin: 3.9px;
+	
+	
+}
